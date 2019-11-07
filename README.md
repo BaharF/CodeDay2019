@@ -6,10 +6,10 @@ ECL Watchpage:
 https://18.218.214.62:18010/#/stub/Main-DL/Activity-DL/Grid
 
 Spotify Dataset: 
-https://ide.hpccsystems.com/workspaces/share/fdfa192e-9275-4545-95b8-013b6d9ff083
+https://ide.hpccsystems.com/workspaces/share/62846edf-c1da-42b4-b783-6668b7cd1a15
 
 Gaming Dataset:
-https://ide.hpccsystems.com/workspaces/share/64994640-d717-42e8-8737-13eda79364c3
+ https://ide.hpccsystems.com/workspaces/share/4a59d008-c6a1-43c2-8bbd-7ea6437b8e61
 
 ECL training containing six short videos
 https://www.youtube.com/watch?time_continue=192&v=Lk78BCCtM-0
